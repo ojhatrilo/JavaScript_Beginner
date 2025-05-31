@@ -21,7 +21,7 @@ let isEmployed = true; // Boolean data type
 
 // object
 
-console.log(typeof name); // "string"
+console.log(typeof "Hello"); // "string"
 console.log(typeof age); // "number"
 console.log(typeof isEmployed); // "boolean"
 console.log(typeof null); // "object" (this is a known bug in JavaScript)
